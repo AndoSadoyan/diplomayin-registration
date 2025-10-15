@@ -1,0 +1,1 @@
+Face/Student registration terminal for diplomayin
